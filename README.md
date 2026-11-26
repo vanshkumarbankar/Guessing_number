@@ -29,10 +29,11 @@ The game provides hints to help the player figure out whether their guess is too
 
 2. Open the project folder:
    
-   cd number-guessing-game
+   cd Guessing_number
 
 3. Run the Python file:
    
+   bash requirement.txt
    python main.py
 
 🎯 How to Play
@@ -42,16 +43,6 @@ The game provides hints to help the player figure out whether their guess is too
 3. Follow the hints displayed by the computer.
 4. Keep guessing until you find the correct number!
 
-📚 What I Learned
-
-Through this project, I practiced:
-
-- Python variables and data types
-- Conditional statements ("if-elif-else")
-- Loops ("while")
-- User input ("input()")
-- Random number generation
-- Basic problem-solving and logical thinking
 
 👨‍💻 Author
 
